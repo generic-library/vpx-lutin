@@ -1,0 +1,3 @@
+[submodule "vpx"]
+	path = vpx
+	url = ../vpx.git
